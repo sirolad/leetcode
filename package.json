@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "practising algos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirolad/leetcode.git"
+  },
+  "author": "Surajudeen Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirolad/leetcode/issues"
+  },
+  "homepage": "https://github.com/sirolad/leetcode#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
